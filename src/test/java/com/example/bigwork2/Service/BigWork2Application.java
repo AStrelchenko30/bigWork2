@@ -1,4 +1,4 @@
-package com.example.bigwork2;
+package com.example.bigwork2.Service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
